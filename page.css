@@ -1,0 +1,70 @@
+.head img{
+      width: 150px;
+      height: 150px;
+}
+
+.head h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#ed9111;
+    font-size: 35px;
+    position:absolute;
+    top:18px;
+    left:220px;
+}
+
+.head h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ed9111;
+    font-size: 32px;
+    position: absolute;
+    top:60px;
+    left: 265px;
+}
+
+.chef{
+    position: absolute;
+    top: 15px;
+    right: 40px;
+    width: 150px;
+    height:140px;
+}
+
+.links{
+    position: absolute;
+    top: 88px;
+    left: 650px;  
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px; 
+}
+
+hr{
+    width: 1400px;
+}
+
+marquee{
+    font-weight: bold;
+}
+
+.hotel{
+    height: 500px;
+    width: 600px;
+    margin-left: 20px ;
+}
+
+.pg{
+    text-align:justify;
+    position: absolute;
+    top: 280px;
+    left: 660px;
+    right: 10px;
+    color:rgb(15, 55, 232);
+
+    
+    
+}
